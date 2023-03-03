@@ -34,6 +34,13 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 - Internships
 - Apprenticeships
 
+## Fun Stuff
+
+- I am currently building a weather⛈️ application using React and SheCodes Weather API
+- I have been in my book club, Bookaholics📖🍷, for 4 years
+- I have lived in 7 states🏡 and touched 4 seas🌊
+- My pronouns are she/her
+
 ## 📊 In my past professional life, I...
 
 - Supervised a water💧 resource management team for city government, serving 36,000+ customers
