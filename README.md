@@ -26,6 +26,8 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 [![Portfolio link](/images/social/netlify.svg)](https://chimerical-kleicha-dda4cf.netlify.app/)
 [![Twitter profile link](/images/social/twitter.svg)](https://twitter.com/michelleMCodes)
 
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemullane&count_private=true&theme=dark&title_color=FEB99D)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👀 I am seeking...
 
 - Entry-level roles as a software developer 👩‍💻
