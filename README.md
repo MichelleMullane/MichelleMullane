@@ -1,7 +1,7 @@
 ## 👋 Hi, there. I'm Michelle Mullane, Fullstack Software Developer 👋
 
 <img align="center" src="images/coral_banner.png" />
-<img src="images/javascript.svg" height="30px" style="background-color:#FEB99D;"/>
+<img src="images/javascript.svg" height="30px" style="color:#FEB99D;"/>
 <img src="images/html5.svg" height="30px" style="background-color:#FEB99D;"/>
 <img src="images/css3.svg" height="30px" style="background-color:#FEB99D;"/>
 <img src="images/react.svg" height="30px" style="background-color:#FEB99D;"/>
