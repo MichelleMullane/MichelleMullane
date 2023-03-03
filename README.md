@@ -1,5 +1,6 @@
-![Black and Gray Minimalist Software Industry Developer Logo](https://user-images.githubusercontent.com/106880578/222777342-7cd18a99-0643-4595-9c7a-81602e9f68a6.png)
-### Hi there 👋 I'm Michelle Mullane, Fullstack Software Engineer
+<img align="center" src="images/coral_banner.png" />
+
+### Hi there 👋 I'm Michelle Mullane, Fullstack Software Developer
 
 <!--
 **MichelleMullane/MichelleMullane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
