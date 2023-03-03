@@ -20,13 +20,13 @@
 
 Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, PostgreSQL, Git, GitHub, Bootstrap, Socket.io, Webpack, JSON, JSON Web Tokens
 
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemullane&count_private=true&theme=dark&title_color=FEB99D)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Find me at these places around the web:
 
 [![LinkedIn profile link](/images/social/linkedin.svg)](https://www.linkedin.com/in/michelle-mullane)
 [![Portfolio link](/images/social/netlify.svg)](https://chimerical-kleicha-dda4cf.netlify.app/)
 [![Twitter profile link](/images/social/twitter.svg)](https://twitter.com/michelleMCodes)
-
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemullane&count_private=true&theme=dark&title_color=FEB99D)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👀 I am seeking...
 
