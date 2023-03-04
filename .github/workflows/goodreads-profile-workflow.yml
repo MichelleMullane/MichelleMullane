@@ -1,4 +1,4 @@
-name: Latest book list from goodreads
+name: Latest book list from a goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
         with:
-          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
+          # Replace this with your goodreads user id
           goodreads_user_id: "38694752"
           shelf: "currently-reading"
