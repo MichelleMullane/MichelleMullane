@@ -58,6 +58,11 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 - _Peer programming_ with the PERN stack (PostgreSQL, Express, React, Node.js)
 - _Group projects_ using Git for version control
 
+### What I'm reading
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
 <!--
 **MichelleMullane/MichelleMullane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
