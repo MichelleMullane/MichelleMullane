@@ -26,6 +26,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 
 [![LinkedIn profile link](/images/social/linkedin.svg)](https://www.linkedin.com/in/michelle-mullane)
 [![Portfolio link](/images/social/netlify.svg)](https://chimerical-kleicha-dda4cf.netlify.app/)
+[![Medium link](/images/social/medium.svg)](https://medium.com/@michelle.a.mullane)
 [![Twitter profile link](/images/social/twitter.svg)](https://twitter.com/michelleMCodes)
 
 ## 👀 I am seeking...
@@ -40,6 +41,11 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 - I have been in my book club, Bookaholics📖🍷, for 4 years
 - I have lived in 7 states🏡 and touched 4 seas🌊
 - My pronouns are she/her
+
+## Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📊 In my past professional life, I...
 
