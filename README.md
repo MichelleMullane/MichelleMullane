@@ -20,7 +20,7 @@
 
 Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, PostgreSQL, Git, GitHub, Bootstrap, Socket.io, Webpack, JSON, JSON Web Tokens
 
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemullane&count_private=true&theme=dark&title_color=FEB99D)](https://github.com/anuraghazra/github-readme-stats)
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemullane&count_private=true&theme=dark&title_color=FACFCB)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me at these places around the web:
 
@@ -67,6 +67,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+
 - [Black Cake](https://www.goodreads.com/review/show/5358100629?utm_medium=api&utm_source=rss) by Charmaine Wilkerson (⭐️4.25)
 - [The Eye of the World (The Wheel of Time, #1)](https://www.goodreads.com/review/show/2241677175?utm_medium=api&utm_source=rss) by Robert Jordan (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
