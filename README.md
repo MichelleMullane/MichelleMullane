@@ -45,6 +45,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose the Right Coding Bootcamp for You &amp; a Basic Roadmap](https://medium.com/@michelle.a.mullane/how-to-choose-the-right-coding-bootcamp-for-you-a-basic-roadmap-eea7ba231d6e?source=rss-26d846dc9af5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 In my past professional life, I...
