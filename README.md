@@ -68,7 +68,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [We Were Once a Family: A Story of Love, Death, and Child Removal in America](https://www.goodreads.com/review/show/5530003907?utm_medium=api&utm_source=rss) by Roxanna Asgarian (⭐️4.4)
+- [We Were Once a Family: A Story of Love, Death, and Child Removal in America](https://www.goodreads.com/review/show/5530003907?utm_medium=api&utm_source=rss) by Roxanna Asgarian (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 <!--
