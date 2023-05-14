@@ -68,7 +68,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Station Eleven](https://www.goodreads.com/review/show/5543915381?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️4.05)
+- [Station Eleven](https://www.goodreads.com/review/show/5543915381?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 <!--
