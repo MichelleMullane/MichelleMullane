@@ -68,6 +68,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [Beach Read](https://www.goodreads.com/review/show/4075188994?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.03)
 - [Queen of Shadows (Throne of Glass, #4)](https://www.goodreads.com/review/show/5582109771?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.61)
 - [Toxic Positivity: Keeping It Real in a World Obsessed with Being Happy](https://www.goodreads.com/review/show/5582109195?utm_medium=api&utm_source=rss) by Whitney Goodman (⭐️3.91)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.75)
