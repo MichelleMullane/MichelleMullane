@@ -69,7 +69,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 
 <!-- GOODREADS-LIST:START -->
 - [Queen of Shadows (Throne of Glass, #4)](https://www.goodreads.com/review/show/5582109771?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.61)
-- [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.73)
+- [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.74)
 <!-- GOODREADS-LIST:END -->
 
 <!--
