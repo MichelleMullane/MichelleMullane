@@ -69,7 +69,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 
 <!-- GOODREADS-LIST:START -->
 - [Tower of Dawn (Throne of Glass, #6)](https://www.goodreads.com/review/show/5701445523?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.21)
-- [Empire of Storms (Throne of Glass, #5)](https://www.goodreads.com/review/show/5701445213?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.65)
+- [Empire of Storms (Throne of Glass, #5)](https://www.goodreads.com/review/show/5701445213?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.64)
 - [Killers of the Flower Moon: The Osage Murders and the Birth of the FBI](https://www.goodreads.com/review/show/2369265937?utm_medium=api&utm_source=rss) by David Grann (⭐️4.1)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.73)
 <!-- GOODREADS-LIST:END -->
