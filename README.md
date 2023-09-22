@@ -70,7 +70,7 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 <!-- GOODREADS-LIST:START -->
 - [Wool (Wool, #1)](https://www.goodreads.com/review/show/5829270884?utm_medium=api&utm_source=rss) by Hugh Howey (⭐️4.13)
 - [Tower of Dawn (Throne of Glass, #6)](https://www.goodreads.com/review/show/5701445523?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.23)
-- [Empire of Storms (Throne of Glass, #5)](https://www.goodreads.com/review/show/5701445213?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.65)
+- [Empire of Storms (Throne of Glass, #5)](https://www.goodreads.com/review/show/5701445213?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.66)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.71)
 <!-- GOODREADS-LIST:END -->
 
