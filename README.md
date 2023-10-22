@@ -73,9 +73,10 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-
-- [Black Cake](https://www.goodreads.com/review/show/5358100629?utm_medium=api&utm_source=rss) by Charmaine Wilkerson (⭐️4.25)
-- [The Eye of the World (The Wheel of Time, #1)](https://www.goodreads.com/review/show/2241677175?utm_medium=api&utm_source=rss) by Robert Jordan (⭐️4.43)
+- [The Overstory](https://www.goodreads.com/review/show/2977081254?utm_medium=api&utm_source=rss) by Richard Powers (⭐️4.1)
+- [Tower of Dawn (Throne of Glass, #6)](https://www.goodreads.com/review/show/5701445523?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.23)
+- [Empire of Storms (Throne of Glass, #5)](https://www.goodreads.com/review/show/5701445213?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.66)
+- [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.71)
 <!-- GOODREADS-LIST:END -->
 
 <!--
