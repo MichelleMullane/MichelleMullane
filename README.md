@@ -3,9 +3,12 @@
 <img align="center" src="images/coral_banner.png" />
 
 ![JavaScript](/images/javascript.svg)
+![TypeScript](/images//typescript.svg)
+![Java](/images/java.svg)
 ![HTML5](/images/html5.svg)
 ![CSS3](/images/css3.svg)
 ![React](/images/react.svg)
+![SpringBoot](/images/springboot.svg)
 ![Redux](/images/redux.svg)
 ![Node.js](/images/nodedotjs.svg)
 ![Express.js](/images/express.svg)
@@ -18,7 +21,7 @@
 ![JSON](/images/json.svg)
 ![JSON Web Tokens](/images/jsonwebtokens.svg)
 
-Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, PostgreSQL, Git, GitHub, Bootstrap, Socket.io, Webpack, JSON, JSON Web Tokens
+Icons Alt Text: JavaScript, TypeScript, Java, HTML5, CSS3, React, Spring Boot, Redux, Node.js, Express.js, PostgreSQL, Git, GitHub, Bootstrap, Socket.io, Webpack, JSON, JSON Web Tokens
 
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemullane&count_private=true&theme=dark&title_color=FACFCB)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -31,13 +34,10 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 
 ## 👀 I am seeking...
 
-- Entry-level roles as a software developer 👩‍💻
-- Internships
-- Apprenticeships
+Fullstack Software Developer/Engineer Roles
 
 ## Fun Stuff
 
-- I am currently building a weather⛈️ application using React and SheCodes Weather API
 - I have been in my book club, Bookaholics📖🍷, for 4 years
 - I have lived in 7 states🏡 and touched 4 seas🌊
 - My pronouns are she/her
@@ -54,6 +54,11 @@ Icons Alt Text: JavaScript, HTML5, CSS3, React, Redux, Node.js, Express.js, Post
 - Served in the US Army🇺🇸 as an engineer officer
 
 ## 📚 Some coding education highlights include...
+
+### Black Knight, Inc. Fullstack Engineering Internship
+
+- Building microservices with a React/TypeScript frontend and Java/SpringBoot backend
+- Developing a revolutionary application for mortgage processing services on a serverless architecture
 
 ### SheCodes Workshops
 
