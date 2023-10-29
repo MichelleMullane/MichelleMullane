@@ -73,9 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Overstory](https://www.goodreads.com/review/show/2977081254?utm_medium=api&utm_source=rss) by Richard Powers (⭐️4.1)
-- [Tower of Dawn (Throne of Glass, #6)](https://www.goodreads.com/review/show/5701445523?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.24)
-- [Empire of Storms (Throne of Glass, #5)](https://www.goodreads.com/review/show/5701445213?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.66)
+- [Pride and Prejudice](https://www.goodreads.com/review/show/2241664957?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.27)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.7)
 <!-- GOODREADS-LIST:END -->
 
