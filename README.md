@@ -75,7 +75,7 @@ Fullstack Software Developer/Engineer Roles
 <!-- GOODREADS-LIST:START -->
 - [A Study in Drowning](https://www.goodreads.com/review/show/5944487432?utm_medium=api&utm_source=rss) by Ava Reid (⭐️4.02)
 - [Pride and Prejudice](https://www.goodreads.com/review/show/2241664957?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.27)
-- [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.7)
+- [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.71)
 <!-- GOODREADS-LIST:END -->
 
 <!--
