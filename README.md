@@ -73,7 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/5973387896?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.49)
+- [Iron Flame (The Empyrean, #2)](https://www.goodreads.com/review/show/5973387896?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.48)
 - [Bright Young Women](https://www.goodreads.com/review/show/5973387562?utm_medium=api&utm_source=rss) by Jessica Knoll (⭐️4.05)
 - [Pride and Prejudice](https://www.goodreads.com/review/show/2241664957?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.28)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.7)
