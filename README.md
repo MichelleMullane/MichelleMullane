@@ -74,7 +74,6 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [The Ballad of Songbirds and Snakes (The Hunger Games, #0)](https://www.goodreads.com/review/show/5936344629?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️3.91)
-- [Pride and Prejudice](https://www.goodreads.com/review/show/2241664957?utm_medium=api&utm_source=rss) by Jane Austen (⭐️4.28)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.7)
 <!-- GOODREADS-LIST:END -->
 
