@@ -74,7 +74,7 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [Kingdom of Ash (Throne of Glass, #7)](https://www.goodreads.com/review/show/6028315611?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.73)
-- [The Ballad of Songbirds and Snakes (The Hunger Games, #0)](https://www.goodreads.com/review/show/5936344629?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️3.91)
+- [The Ballad of Songbirds and Snakes (The Hunger Games, #0)](https://www.goodreads.com/review/show/5936344629?utm_medium=api&utm_source=rss) by Suzanne Collins (⭐️3.92)
 - [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.7)
 <!-- GOODREADS-LIST:END -->
 
