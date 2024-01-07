@@ -73,8 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Kingdom of Ash (Throne of Glass, #7)](https://www.goodreads.com/review/show/6028315611?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.74)
-- [Throne of Glass eBook Bundle: An 8 Book Bundle](https://www.goodreads.com/review/show/5403402093?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.7)
+- [The Psychology of Money](https://www.goodreads.com/review/show/6141760675?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 <!--
