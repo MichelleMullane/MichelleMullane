@@ -73,7 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Psychology of Money](https://www.goodreads.com/review/show/6141760675?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.33)
+- [House of Flame and Shadow (Crescent City, #3)](https://www.goodreads.com/review/show/5416058556?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.47)
 <!-- GOODREADS-LIST:END -->
 
 <!--
