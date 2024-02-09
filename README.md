@@ -73,7 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [House of Flame and Shadow (Crescent City, #3)](https://www.goodreads.com/review/show/5416058556?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.37)
+- [House of Flame and Shadow (Crescent City, #3)](https://www.goodreads.com/review/show/5416058556?utm_medium=api&utm_source=rss) by Sarah J. Maas (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
 <!--
