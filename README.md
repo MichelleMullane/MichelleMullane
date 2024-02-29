@@ -74,7 +74,7 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [Demon Copperhead](https://www.goodreads.com/review/show/6271160627?utm_medium=api&utm_source=rss) by Barbara Kingsolver (⭐️4.5)
-- [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6034420727?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.66)
+- [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6034420727?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.65)
 <!-- GOODREADS-LIST:END -->
 
 <!--
