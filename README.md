@@ -73,7 +73,6 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Demon Copperhead](https://www.goodreads.com/review/show/6271160627?utm_medium=api&utm_source=rss) by Barbara Kingsolver (⭐️4.49)
 - [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6034420727?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.65)
 <!-- GOODREADS-LIST:END -->
 
