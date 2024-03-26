@@ -73,8 +73,8 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [Dragonfly in Amber (Outlander, #2)](https://www.goodreads.com/review/show/4294996820?utm_medium=api&utm_source=rss) by Diana Gabaldon (⭐️4.33)
 - [Wuthering Heights](https://www.goodreads.com/review/show/2241668747?utm_medium=api&utm_source=rss) by Emily Brontë (⭐️3.89)
-- [The Hobbit (The Lord of the Rings, #0)](https://www.goodreads.com/review/show/2241668319?utm_medium=api&utm_source=rss) by J.R.R. Tolkien (⭐️4.28)
 - [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6034420727?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.65)
 <!-- GOODREADS-LIST:END -->
 
