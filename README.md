@@ -73,6 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Glass Hotel](https://www.goodreads.com/review/show/6025700734?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️3.66)
 - [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6034420727?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.65)
 <!-- GOODREADS-LIST:END -->
 
