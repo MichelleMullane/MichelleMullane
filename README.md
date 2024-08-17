@@ -73,8 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [My Brilliant Friend (The Neapolitan Novels, #1)](https://www.goodreads.com/review/show/6729437442?utm_medium=api&utm_source=rss) by Elena Ferrante (⭐️4.09)
-- [The Will of the Many (Hierarchy, #1)](https://www.goodreads.com/review/show/6034420727?utm_medium=api&utm_source=rss) by James  Islington (⭐️4.64)
+- [The God of the Woods](https://www.goodreads.com/review/show/6766121404?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.33)
 <!-- GOODREADS-LIST:END -->
 
 <!--
