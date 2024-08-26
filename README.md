@@ -74,7 +74,7 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [Practical Magic (Practical Magic, #1)](https://www.goodreads.com/review/show/6729037867?utm_medium=api&utm_source=rss) by Alice Hoffman (⭐️3.72)
-- [The God of the Woods](https://www.goodreads.com/review/show/6766121404?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.31)
+- [The God of the Woods](https://www.goodreads.com/review/show/6766121404?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
 <!--
