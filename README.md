@@ -73,7 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [The God of the Woods](https://www.goodreads.com/review/show/6766121404?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.29)
+- [The God of the Woods](https://www.goodreads.com/review/show/6766121404?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
 <!--
