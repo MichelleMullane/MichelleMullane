@@ -74,7 +74,6 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [Adult Piano Adventures All-in-One Piano Course Book 1: Book with Media Online](https://www.goodreads.com/review/show/6901520965?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.69)
-- [The Marriage Portrait](https://www.goodreads.com/review/show/6829340729?utm_medium=api&utm_source=rss) by Maggie O&apos;Farrell (⭐️4.03)
 <!-- GOODREADS-LIST:END -->
 
 <!--
