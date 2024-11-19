@@ -73,7 +73,6 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Funny Story](https://www.goodreads.com/review/show/6992777463?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.24)
 - [The Rules of Magic](https://www.goodreads.com/review/show/6904702673?utm_medium=api&utm_source=rss) by Alice Hoffman (⭐️4.18)
 - [Adult Piano Adventures All-in-One Piano Course Book 1: Book with Media Online](https://www.goodreads.com/review/show/6901520965?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.7)
 <!-- GOODREADS-LIST:END -->
