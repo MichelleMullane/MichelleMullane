@@ -74,7 +74,6 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [The Friend Zone (The Friend Zone, #1)](https://www.goodreads.com/review/show/7000094744?utm_medium=api&utm_source=rss) by Abby Jimenez (⭐️4.09)
-- [Husbands &amp; Lovers](https://www.goodreads.com/review/show/7033960580?utm_medium=api&utm_source=rss) by Beatriz Williams (⭐️4.27)
 - [The Frozen River](https://www.goodreads.com/review/show/7000095960?utm_medium=api&utm_source=rss) by Ariel Lawhon (⭐️4.52)
 - [Adult Piano Adventures All-in-One Piano Course Book 1: Book with Media Online](https://www.goodreads.com/review/show/6901520965?utm_medium=api&utm_source=rss) by Nancy Faber (⭐️4.69)
 <!-- GOODREADS-LIST:END -->
