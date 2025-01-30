@@ -74,7 +74,6 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [James](https://www.goodreads.com/review/show/7178384634?utm_medium=api&utm_source=rss) by Percival Everett (⭐️4.5)
-- [The Friend Zone (The Friend Zone, #1)](https://www.goodreads.com/review/show/7000094744?utm_medium=api&utm_source=rss) by Abby Jimenez (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 
 <!--
