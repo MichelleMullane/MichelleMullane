@@ -73,7 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.33)
+- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.32)
 <!-- GOODREADS-LIST:END -->
 
 <!--
