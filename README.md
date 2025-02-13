@@ -74,7 +74,7 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [Your Baby&apos;s First Year](https://www.goodreads.com/review/show/7302177005?utm_medium=api&utm_source=rss) by American Academy of Pediatrics (AAP) (⭐️3.7)
-- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.28)
+- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.27)
 <!-- GOODREADS-LIST:END -->
 
 <!--
