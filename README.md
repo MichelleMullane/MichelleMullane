@@ -75,7 +75,7 @@ Fullstack Software Developer/Engineer Roles
 <!-- GOODREADS-LIST:START -->
 - [Stealing Home (The Sweet Magnolias #1)](https://www.goodreads.com/review/show/7326646824?utm_medium=api&utm_source=rss) by Sherryl Woods (⭐️4.18)
 - [Your Baby&apos;s First Year](https://www.goodreads.com/review/show/7302177005?utm_medium=api&utm_source=rss) by American Academy of Pediatrics (AAP) (⭐️3.7)
-- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.26)
+- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
 <!--
