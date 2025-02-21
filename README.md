@@ -73,6 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Heaven & Earth Grocery Store](https://www.goodreads.com/review/show/7342659890?utm_medium=api&utm_source=rss) by James   McBride (⭐️3.84)
 - [Your Baby&apos;s First Year](https://www.goodreads.com/review/show/7302177005?utm_medium=api&utm_source=rss) by American Academy of Pediatrics (AAP) (⭐️3.58)
 - [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7283033545?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
