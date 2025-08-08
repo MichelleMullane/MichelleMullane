@@ -74,7 +74,7 @@ Fullstack Software Developer/Engineer Roles
 
 <!-- GOODREADS-LIST:START -->
 - [Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants](https://www.goodreads.com/review/show/3413403376?utm_medium=api&utm_source=rss) by Robin Wall Kimmerer (⭐️4.52)
-- [The Heaven & Earth Grocery Store](https://www.goodreads.com/review/show/7342659890?utm_medium=api&utm_source=rss) by James   McBride (⭐️3.83)
+- [The Heaven & Earth Grocery Store](https://www.goodreads.com/review/show/7342659890?utm_medium=api&utm_source=rss) by James   McBride (⭐️3.82)
 - [Your Baby&apos;s First Year](https://www.goodreads.com/review/show/7302177005?utm_medium=api&utm_source=rss) by American Academy Of Pediatrics (⭐️3.62)
 <!-- GOODREADS-LIST:END -->
 
