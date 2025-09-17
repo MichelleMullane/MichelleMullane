@@ -73,7 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Great Big Beautiful Life](https://www.goodreads.com/review/show/7916891993?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.96)
+- [Great Big Beautiful Life](https://www.goodreads.com/review/show/7916891993?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.95)
 - [Green Rider (Green Rider, #1)](https://www.goodreads.com/review/show/7904631867?utm_medium=api&utm_source=rss) by Kristen Britain (⭐️4.08)
 - [Devotions: The Selected Poems of Mary Oliver](https://www.goodreads.com/review/show/7916890751?utm_medium=api&utm_source=rss) by Mary Oliver (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
