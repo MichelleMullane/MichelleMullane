@@ -73,7 +73,6 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [A Sorceress Comes to Call](https://www.goodreads.com/review/show/8007433744?utm_medium=api&utm_source=rss) by T. Kingfisher (⭐️4.19)
 - [Green Rider (Green Rider, #1)](https://www.goodreads.com/review/show/7904631867?utm_medium=api&utm_source=rss) by Kristen Britain (⭐️4.08)
 - [Devotions: The Selected Poems of Mary Oliver](https://www.goodreads.com/review/show/7916890751?utm_medium=api&utm_source=rss) by Mary Oliver (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
