@@ -73,6 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Pumpkin Spice Café (Dream Harbor, #1)](https://www.goodreads.com/review/show/8069218933?utm_medium=api&utm_source=rss) by Laurie Gilmore (⭐️3.36)
 - [The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being](https://www.goodreads.com/review/show/8065093830?utm_medium=api&utm_source=rss) by Simone Davies (⭐️4.27)
 - [Green Rider (Green Rider, #1)](https://www.goodreads.com/review/show/7904631867?utm_medium=api&utm_source=rss) by Kristen Britain (⭐️4.08)
 - [Devotions: The Selected Poems of Mary Oliver](https://www.goodreads.com/review/show/7916890751?utm_medium=api&utm_source=rss) by Mary Oliver (⭐️4.57)
