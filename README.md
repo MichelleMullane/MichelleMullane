@@ -78,7 +78,7 @@ Fullstack Software Developer/Engineer Roles
 - [The Things We Leave Unfinished](https://www.goodreads.com/review/show/8167583200?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.47)
 - [The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being](https://www.goodreads.com/review/show/8065093830?utm_medium=api&utm_source=rss) by Simone Davies (⭐️4.28)
 - [Green Rider (Green Rider, #1)](https://www.goodreads.com/review/show/7904631867?utm_medium=api&utm_source=rss) by Kristen Britain (⭐️4.08)
-- [Devotions: The Selected Poems of Mary Oliver](https://www.goodreads.com/review/show/7916890751?utm_medium=api&utm_source=rss) by Mary Oliver (⭐️4.56)
+- [Devotions: The Selected Poems of Mary Oliver](https://www.goodreads.com/review/show/7916890751?utm_medium=api&utm_source=rss) by Mary Oliver (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
 
 <!--
