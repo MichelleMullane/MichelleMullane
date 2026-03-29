@@ -73,6 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Hotel Nantucket](https://www.goodreads.com/review/show/8476519948?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.21)
 - [28 Summers](https://www.goodreads.com/review/show/8469702323?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.37)
 - [The Last Unicorn](https://www.goodreads.com/review/show/4417401043?utm_medium=api&utm_source=rss) by Peter S. Beagle (⭐️4.14)
 - [Story Genius: How to Use Brain Science to Go Beyond Outlining and Write a Riveting Novel (Before You Waste Three Years Writing 327 Pages That Go Nowhere)](https://www.goodreads.com/review/show/8191150815?utm_medium=api&utm_source=rss) by Lisa Cron (⭐️4.35)
