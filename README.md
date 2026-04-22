@@ -73,6 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Five-Star Weekend](https://www.goodreads.com/review/show/8542455155?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.24)
 - [The Beach Club](https://www.goodreads.com/review/show/8481547510?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.04)
 - [Nantucket Nights](https://www.goodreads.com/review/show/8480894906?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.8)
 - [28 Summers](https://www.goodreads.com/review/show/8469702323?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.37)
