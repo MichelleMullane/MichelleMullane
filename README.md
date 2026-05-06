@@ -73,6 +73,7 @@ Fullstack Software Developer/Engineer Roles
 ### What I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/6361022079?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.2)
 - [The Identicals: A Novel](https://www.goodreads.com/review/show/8579162604?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.2)
 - [The Beach Club](https://www.goodreads.com/review/show/8481547510?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.04)
 - [Nantucket Nights](https://www.goodreads.com/review/show/8480894906?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.8)
@@ -82,7 +83,6 @@ Fullstack Software Developer/Engineer Roles
 - [The Things We Leave Unfinished](https://www.goodreads.com/review/show/8167583200?utm_medium=api&utm_source=rss) by Rebecca Yarros (⭐️4.47)
 - [The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being](https://www.goodreads.com/review/show/8065093830?utm_medium=api&utm_source=rss) by Simone Davies (⭐️4.27)
 - [Green Rider (Green Rider, #1)](https://www.goodreads.com/review/show/7904631867?utm_medium=api&utm_source=rss) by Kristen Britain (⭐️4.08)
-- [Devotions: The Selected Poems of Mary Oliver](https://www.goodreads.com/review/show/7916890751?utm_medium=api&utm_source=rss) by Mary Oliver (⭐️4.56)
 <!-- GOODREADS-LIST:END -->
 
 <!--
