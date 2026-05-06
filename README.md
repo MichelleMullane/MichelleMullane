@@ -75,7 +75,7 @@ Fullstack Software Developer/Engineer Roles
 <!-- GOODREADS-LIST:START -->
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/6361022079?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️4.2)
 - [The Identicals: A Novel](https://www.goodreads.com/review/show/8579162604?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.2)
-- [The Beach Club](https://www.goodreads.com/review/show/8481547510?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.03)
+- [The Beach Club](https://www.goodreads.com/review/show/8481547510?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.04)
 - [Nantucket Nights](https://www.goodreads.com/review/show/8480894906?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️3.8)
 - [28 Summers](https://www.goodreads.com/review/show/8469702323?utm_medium=api&utm_source=rss) by Elin Hilderbrand (⭐️4.37)
 - [The Last Unicorn](https://www.goodreads.com/review/show/4417401043?utm_medium=api&utm_source=rss) by Peter S. Beagle (⭐️4.14)
